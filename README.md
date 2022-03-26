@@ -6,6 +6,7 @@ Skład
 | `Maciej Morawski`        | Developer                   | https://github.com/MacMarMor		|
 | `Karolina Maciejewska`   | Developer                   | https://github.com/Karo05107		|
 | `Adam Grzesiak`          | Developer                   | https://github.com/adamg177		|
+| :-------------:          | :-------------:             |:-------------:		              |
 
 
 Informacje
@@ -29,7 +30,7 @@ Narzędzia do śledzenia postępów projektu - GitHub Projects
 
 
 
-Projekt :
+Link do projektu : [ https://github.com/adamg177/CloneTrelloProject/projects/1 ]
 
 
 
