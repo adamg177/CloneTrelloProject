@@ -17,7 +17,7 @@ Projekt Powstaje na cele przedmiotu "Programowanie Aplikacji Webowych" w celu st
 
 Wybrany Frontend - VUE.js
 
-Wybrane Backend - 1 wersja Symfony, odrzucona ze względu na problem z połączeniem z relatywnymi bazami danych w naszym przypadku MongoDB . Ostatecznie Node.js
+Wybrane Backend - 1 wersja Symfony, odrzucona ze względu na problem z połączeniem z relatywnymi bazami danych w naszym przypadku MongoDB . Ostatecznie Node.js - Meteor.js
 
 Wybrana Baza danych - MongoDB (https://www.mongodb.com)
 
